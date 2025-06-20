@@ -1,4 +1,4 @@
-print("Hello my name is Alex your virtual assistant. I will help you` order pizza!")
+print("Hello my name is Alex your virtual assistant. I will help you order pizza!")
 print("Please type your respense and press Enter.")
 userName = input("\nEnter your name:  ")
 while len(userName) == 0:
